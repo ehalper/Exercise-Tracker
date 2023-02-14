@@ -1,6 +1,6 @@
 # Exercise Tracker iOS Application
 ## Demo: https://youtu.be/xvj2qMh4u3o
-The Exercise Tracker iOS application helps users track where they go biking/running/walking using GPS. The application saves their paths and allows users to access them later as files by viewing where they went on the map.
+The Exercise Tracker iOS application helps users track where they go biking/running/walking using GPS. The application saves their paths and allows users to access them later as files by viewing where they went on the map. The application also tracks and displays the user's speed.
 
 The application uses Core Location and MapKit to display the user's current location on the map, File Manager to save the user's path trajectory in the file system, and persistence to maintain the data.
 
